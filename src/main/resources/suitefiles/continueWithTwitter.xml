@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sample">
+	<test name="Sample_Test">
+		<classes>
+            <class name="com.tfl.tfl_mobile_automation.module.TC06ContinueWithTwitterTest" />
+            <!--<class name="com.tfl.tfl_mobile_automation.module.ContinueWithTwitterTest" />-->
+            <!--<class name="com.tfl.tfl_mobile_automation.module.ContinueWithFacebookTest" />	-->
+			<!-- <class name="com.tfl.tfl_mobile_automation.tfl_mobile_automation.module.SampleJiraTestScript" /> -->
+		</classes>
+	</test>
+</suite>

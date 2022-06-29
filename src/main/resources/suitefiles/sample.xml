@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sample">
+	<test name="Sample_Test">
+		<classes>
+			<class name="com.tfl.tfl_mobile_automation.module.TC07GuestUserTest" />
+			<class name="com.tfl.tfl_mobile_automation.module.TC18AppPreferencesTest" />
+            <class name="com.tfl.tfl_mobile_automation.module.UserPreferenceTeamTest" />
+            <class name="com.tfl.tfl_mobile_automation.module.TC20LiveMatchTest" />
+			<class name="com.tfl.tfl_mobile_automation.module.TC04SignInTest" />
+	        <class name="com.tfl.tfl_mobile_automation.module.TC06ContinueWithTwitterTest" />
+			<class name="com.tfl.tfl_mobile_automation.module.TC12ContinueWithFacebookTest" />			
+         </classes>
+     </test>
+ </suite>
